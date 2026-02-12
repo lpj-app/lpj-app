@@ -43,6 +43,7 @@ Fullstack developer focused on cloud-based and web applications <br><br>Frontend
 - [POI-Harvester](https://poi-harvester.lpj.app/) – Extract data from OpenStreetMap Points of Interest via the Overpass API, available in browser, as a downloadable GUI, or via CLI
 - [PGP Keypair Generator](https://lpj.app/tools/pgp-keypair-generator) – Generate PGP key pairs with RSA or ECC, supporting multiple key sizes and elliptic curves
 - [PGP Encrypt/Decrypt Text](https://lpj.app/tools/pgp-check-encrypt-decrypt) – Validate / check PGP Keys or encrypt / decrypt messages
+- [PGP Communication Platform](https://lpj.app/tools/pgp-communication-platform) - Generate or import a PGP Keypair, generate a mailbox, share mailbox link, get and write encrypted messages
 - [Learn and Quiz Site Builder](https://lpj.app/tools/learn-quiz-site-builder) - Extract knowledge with AI prompts and generate a standalone html website about your knowledge and some quiz questions
 
 ### Other
