@@ -42,7 +42,7 @@ Fullstack developer focused on cloud-based and web applications <br><br>Frontend
 - [MyHome](https://myhomelpj.app) - All in one home management for families, ...
 
 ### Tools
-- [MyCollection](https://my-collection.space) - A platform for digitally recording and organizing physical collections. Suitable for almost any hobby
+- [MyCollection](https://mycollection.lpj.app) - A platform for digitally recording and organizing physical collections. Suitable for almost any hobby
 - [POI-Harvester](https://poi-harvester.lpj.app/) – Extract data from OpenStreetMap Points of Interest via the Overpass API, available in browser, as a downloadable GUI, or via CLI
 - [PGP Keypair Generator](https://lpj.app/tools/pgp-keypair-generator) – Generate PGP key pairs with RSA or ECC, supporting multiple key sizes and elliptic curves
 - [PGP Encrypt/Decrypt Text](https://lpj.app/tools/pgp-check-encrypt-decrypt) – Validate / check PGP Keys or encrypt / decrypt messages
@@ -51,7 +51,7 @@ Fullstack developer focused on cloud-based and web applications <br><br>Frontend
 
 ### Other
 - [GymGATE](https://gymgate.lpj.app) – Smart training platform for creating and performing workouts with tracking, social features, and statistics
-- [NumisLib](https://numislib.com) – Open-source numismatic data in a web database, available via website, as a standalone SQLite database, or as an NPM package for use in own projects
+- [NumisLib](https://numislib.lpj.app) – Open-source numismatic data in a web database, available via website, as a standalone SQLite database, or as an NPM package for use in own projects
 - [MyHome - PoC](https://myhome.lpj.app) – Digital home management app that unifies calendars, tasks, documents, and communication for families, flatmates, and couples in one platform
 
 <picture>
