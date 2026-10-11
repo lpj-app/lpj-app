@@ -40,6 +40,7 @@ Fullstack developer focused on cloud-based and web applications <br><br>Frontend
 - [My Blog](https://www.blog.lpj.app/) - Custom guides, tutorials and instructions
 - [MyCouple](https://mycouple.lpj.app) - All in one couple app
 - [MyHome](https://myhomelpj.app) - All in one home management for families, ...
+- [MyVerein](https://myverein.lpj.app) - All in one tool for clubs
 
 ### Tools
 - [MyCollection](https://mycollection.lpj.app) - A platform for digitally recording and organizing physical collections. Suitable for almost any hobby
