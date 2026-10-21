@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://lpj.app/images/portfolio_profile_image.jpeg"
+    src="https://lpj.app/images/profile_image.jpeg"
     height="150"
     style="border-radius:12px;"
   />
