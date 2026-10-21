@@ -1,6 +1,6 @@
 <div align="center">
   <img
-    src="https://lpj.app/images/profile_image.jpeg"
+    src="./assets/profile_image.jpeg"
     height="150"
     style="border-radius:12px;"
   />
@@ -24,8 +24,11 @@
   <a href="https://lpj.app">
     <img src="https://img.shields.io/badge/Website-Visit-blue?style=for-the-badge" alt="Website" height="25"/>
   </a>
-  <a href="https://portfolio.lpj.app">
+  <a href="https://lpj.app/portfolio">
     <img src="https://img.shields.io/badge/Portfolio-View-green?style=for-the-badge" alt="Portfolio" height="25"/>
+  </a>
+  <a href="https://blog.lpj.app">
+    <img src="https://img.shields.io/badge/Blog-Read-orange?style=for-the-badge" alt="Blog" height="25"/>
   </a>
 </p>
 
@@ -41,9 +44,9 @@ Fullstack developer focused on cloud-based and web applications <br><br>Frontend
 - [MyCouple](https://mycouple.lpj.app) - All in one couple app
 - [MyHome](https://myhomelpj.app) - All in one home management for families, ...
 - [MyVerein](https://myverein.lpj.app) - All in one tool for clubs
+- [MyCollection](https://mycollection.lpj.app) - A platform for digitally recording and organizing physical collections. Suitable for almost any hobby
 
 ### Tools
-- [MyCollection](https://mycollection.lpj.app) - A platform for digitally recording and organizing physical collections. Suitable for almost any hobby
 - [POI-Harvester](https://poi-harvester.lpj.app/) – Extract data from OpenStreetMap Points of Interest via the Overpass API, available in browser, as a downloadable GUI, or via CLI
 - [PGP Keypair Generator](https://lpj.app/tools/pgp-keypair-generator) – Generate PGP key pairs with RSA or ECC, supporting multiple key sizes and elliptic curves
 - [PGP Encrypt/Decrypt Text](https://lpj.app/tools/pgp-check-encrypt-decrypt) – Validate / check PGP Keys or encrypt / decrypt messages
@@ -53,7 +56,6 @@ Fullstack developer focused on cloud-based and web applications <br><br>Frontend
 ### Other
 - [GymGATE](https://gymgate.lpj.app) – Smart training platform for creating and performing workouts with tracking, social features, and statistics
 - [NumisLib](https://numislib.lpj.app) – Open-source numismatic data in a web database, available via website, as a standalone SQLite database, or as an NPM package for use in own projects
-- [MyHome - PoC](https://myhome.lpj.app) – Digital home management app that unifies calendars, tasks, documents, and communication for families, flatmates, and couples in one platform
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/lpj-app/lpj-app/output/pacman-contribution-graph-dark.svg">
